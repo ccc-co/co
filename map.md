@@ -11,3 +11,4 @@
 [6-組譯器](06/)       | Pass1 / Pass2 / 符號處理
 [A-速度議題](speed)     | 加速 / 乘除法 / 浮點運算 / 管線 / 快取 / GPU
 [B-Verilog](verilog/)     | [icarus](icarus)
+[C-RISCV](riscv/)     | [picorv32](https://github.com/ccc-co/picorv32) / [rv32emu-next](https://github.com/ccc-co/rv32emu-next)
